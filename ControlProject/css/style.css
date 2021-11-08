@@ -372,7 +372,9 @@ p {
     align-items: center;
 
 }
-
+.mobile_slaider_block{
+    display: none;
+}
 .banner-info {
     width: 332px;
     height: 207px;
